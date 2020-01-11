@@ -33,3 +33,8 @@ inc/
 /MANIFEST.bak
 /pm_to_blib
 /*.zip
+
+/build*
+/dist*
+*__pycache__*
+*egg-info*
